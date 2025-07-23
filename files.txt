@@ -1,2 +1,0 @@
-ls listar archivos
-pwd listar directorio actual de trabajo
